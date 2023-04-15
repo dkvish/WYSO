@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500&family=Outfit:wght@200;300;400;500;600;700&display=swap');
+body{
+    font-family: 'Fredoka', sans-serif !important;
+}
+.navbar {
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(20px) saturate(160%) contrast(45%) brightness(140%);
+    -webkit-backdrop-filter: blur(20px) saturate(160%) contrast(45%) brightness(140%);
+    /* border-bottom: solid 1px rgb(183, 183, 183); */
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 1rem;
+  }
+  h4{
+    color: red;
+    text-decoration: underline;
+  }
+  h5{
+    font-family: var(--heading-font-family);
+    font-weight: 500;
+    font-size: calc(1rem + 1vw);
+    line-height: calc(1.2rem + 1vw);
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+  }
+  .card{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.section-bg {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-image: url(../img/3.png);
+  min-height: 50vh;
+}
+.slide-style {
+  background-size: cover;
+  background-position: center;
+  /* background-repeat: no-repeat; */
+  height: 80vh!important;
+}
+
+.image-1 {
+  background-image: url(../img/image-1.jpg);
+
+}
+
+.image-2 {
+  background-image: url(../img/image-2.jpg);
+}
+
+.image-3 {
+  background-image: url(../img/image-3.jpg);
+}
+
+.row{
+  overflow-x: hidden;
+}
+
+body{
+  overflow-x: hidden;
+}
+.heading-1 {
+  font-family: var(--heading-font-family);
+  font-weight: 500;
+  font-size: calc(1.3rem + 2vw);
+  line-height: calc(1.6rem + 2vw);
+}
+.heading-2 {
+  font-family: var(--heading-font-family);
+  font-weight: 500;
+  font-size: calc(1.2rem + 1vw);
+  line-height: calc(1.2rem + 1vw);
+}
+
+.form-control{
+  margin-top: .5rem;
+  margin-bottom: .5rem;
+}
