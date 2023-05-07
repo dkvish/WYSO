@@ -23,11 +23,10 @@
         <div class="col-12">
             <h5 style="margin-top:1.5rem;">Quick Links</h5>
             <ul class="navbar-nav ">
-                <li class="nav-item text-decoration-none"><a class="nav-link quick-link" href="#">Sitemap</a></li>
-                <li class="nav-item"><a class="nav-link quick-link" href="#">Terms of Use</a></li>
-                <li class="nav-item"><a class="nav-link quick-link" href="#">Privacy Policy</a></li>
-                <li class="nav-item"><a class="nav-link quick-link" href="#">Refund Policy</a></li>
-                <li class="nav-item"><a class="nav-link quick-link" href="#">Press Realease</a></li>
+                <li class="nav-item"><a class="nav-link quick-link" href="./documents/WYSO_TnC.pdf">Terms of Use</a></li>
+                <li class="nav-item"><a class="nav-link quick-link" href="./documents/WYSO_Privacy_Policy.pdf">Privacy Policy</a></li>
+                <li class="nav-item"><a class="nav-link quick-link" href="./documents/WYSO_Refund_Policy.pdf">Refund Policy</a></li>
+                <!-- <li class="nav-item"><a class="nav-link quick-link" role="button" aria-disabled="true" href="./documents/WYSO_Press_Release.pdf">Press Realease</a></li> -->
         </div>
     </div>
 
@@ -54,7 +53,7 @@
                 </div>
                 <div
                     style="color:#767676;font-size: 12px;font-weight: 400;line-height: 1;  margin-top: 10px; margin-bottom: 10px; text-align: left;">
-                    By subscribing, you agree with our <a href="https://www.educategirls.ngo/pdf/EG_Privacy_Policy.pdf"
+                    By subscribing, you agree with our <a href="./documents/WYSO_Privacy_Policy.pdf"
                         target="_blank">Privacy Policy</a>
                     and our terms of service.
                 </div>

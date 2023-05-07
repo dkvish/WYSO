@@ -31,30 +31,29 @@
                             aria-expanded="false">About Us</li>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
                             <li> <a class="dropdown-item" type="button" href="./about-us.php">Who Are We</a></li>
-                            <li><button class="dropdown-item" type="button">Our Team</button></li>
-                            <button class="dropdown-item" type="button">Board Members</button></li>
+                            <li><a class="dropdown-item" type="button" href="./about-us.php#board-members">Board Members</a></li>
+                            <li><a class="dropdown-item" type="button"href="./about-us.php#team-members">Our Team</a></li>
                         </ul>
                     </div>
                     <div class="dropdown">
                         <li class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">Our Program</li>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                            <li><button class="dropdown-item" type="button">Protection of Child Rights</button></li>
-                            <li><button class="dropdown-item" type="button">Baal Mitra Gaon</button></li>
+                            <li><a class="dropdown-item" type="button" href="./programs.php">Protection of Child Rights</a></li>
+                            <li><a class="dropdown-item" type="button" href="./programs.php">Baal Mitra Gaon</a></li>
                         </ul>
                     </div>
                     <div class="dropdown">
                         <li class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">Issues We Works On</li>
                         <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                            <li><button class="dropdown-item" type="button">Child Labour, Traffiking, Bagging</button>
-                            </li>
-                            <li><button class="dropdown-item" type="button">Child Sexual Abuse</button></li>
-                            <li><button class="dropdown-item" type="button">Child Marrige</button></li>
-                            <li><button class="dropdown-item" type="button">Youth & Women Empowerment</button></li>
-                            <li><button class="dropdown-item" type="button">Human Rights & RTI</button></li>
-                            <li><button class="dropdown-item" type="button">Education</button></li>
-                            <li><button class="dropdown-item" type="button">Health & Nutritions</button></li>
+                            <li><a class="dropdown-item" type="button"  href="./issues-we-work-on.php">Child Labour, Traffiking, Bagging</a></li>
+                            <li><a class="dropdown-item" type="button" href="./issues-we-work-on.php">Child Sexual Abuse</a></li>
+                            <li><a class="dropdown-item" type="button" href="./issues-we-work-on.php">Child Marrige</a></li>
+                            <li><a class="dropdown-item" type="button" href="./issues-we-work-on.php">Youth & Women Empowerment</a></li>
+                            <li><a class="dropdown-item" type="button" href="./issues-we-work-on.php">Human Rights & RTI</a></li>
+                            <li><a class="dropdown-item" type="button" href="./issues-we-work-on.php">Education</a></li>
+                            <li><a class="dropdown-item" type="button" href="./issues-we-work-on.php">Health & Nutritions</a></li>
                         </ul>
                     </div>
                     <div class="dropdown">
@@ -62,8 +61,8 @@
                             data-bs-display="static" aria-expanded="false">Let's Join Us As</li>
                         <ul class="dropdown-menu dropdown-menu-end dropdown-menu-lg-start"
                             aria-labelledby="dropdownMenu2">
-                            <li><button class="dropdown-item" type="button">Valunteers</button></li>
-                            <li><button class="dropdown-item" type="button">Careers</button></li>
+                            <li><a class="dropdown-item" type="button" href="./valunteer.php">Valunteers</a></li>
+                            <li><a class="dropdown-item" type="button" href="./careers.php">Careers</a></li>
                         </ul>
                         <!-- <a href="https://www.educategirls.ngo/donate" class="btn btn-danger px-xl-4 d-none d-lg-block"><i class="bi bi-suit-heart-fill"></i> DONATE</a>
                         <a href="https://www.educategirls.ngo/donate" class="text-black fw-600 d-block d-lg-none"><i class="bi bi-suit-heart-fill text-alpha me-1"></i> DONATE</a> -->
